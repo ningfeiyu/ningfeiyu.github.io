@@ -41,3 +41,15 @@ identifier = "about"
 name = "关于"
 url = "/about/"
 weight = 40
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:root@ningop.com"
+
+[[params.socialIcons]]
+name = "telegram"
+url = "https://t.me/ninfeo"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/ningfeiyu"
