@@ -15,7 +15,7 @@ ShowPostNavLinks = true
 enabled = false
 
 [params.homeInfoParams]
-Title = "Ningfeiyu"
+Title = "NFY"
 Content = "Nurture Flourish Yielding"
 
 [[menu.main]]
