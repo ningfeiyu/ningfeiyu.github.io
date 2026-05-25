@@ -3,10 +3,35 @@ languageCode = "zh-cn"
 title = "Ningfeiyu"
 theme = "PaperMod"
 
+[pagination]
+pagerSize = 5
+
 [params]
 defaultTheme = "auto"
+ShowReadingTime = true
+ShowPostNavLinks = true
 
 [params.profileMode]
-enabled = true
-title = "Ningfeiyu"
-subtitle = "Nurture Flourish Yielding"
+enabled = false
+
+[params.homeInfoParams]
+Title = "Ningfeiyu"
+Content = "Nurture Flourish Yielding"
+
+[[menu.main]]
+identifier = "posts"
+name = "文章"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "archives"
+name = "归档"
+url = "/archives/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "标签"
+url = "/tags/"
+weight = 30
