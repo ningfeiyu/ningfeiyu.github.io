@@ -1,4 +1,18 @@
+
 baseURL = "https://ningfeiyu.github.io/"
 languageCode = "zh-cn"
 title = "我的博客"
 theme = "PaperMod"
+
+[pagination]
+pagerSize = 5
+
+[params]
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = false
+ShowPostNavLinks = true
+
+[params.homeInfoParams]
+Title = "Ningfeiyu"
+Content = "Nurture Flourish Yielding"
