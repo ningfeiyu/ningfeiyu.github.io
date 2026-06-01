@@ -10,6 +10,7 @@ pagerSize = 5
 defaultTheme = "auto"
 ShowReadingTime = true
 ShowPostNavLinks = true
+comments = true
 
 [params.profileMode]
 enabled = false
