@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>去中心化 on Ningfeiyu</title><link>https://ningfeiyu.github.io/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/</link><description>Recent content in 去中心化 on Ningfeiyu</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Thu, 11 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ningfeiyu.github.io/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/index.xml" rel="self" type="application/rss+xml"/><item><title>OPC 一人公司 2.0：自媒体 × Web3 × AI 的飞轮实操指南</title><link>https://ningfeiyu.github.io/posts/opc-2-advanced-web3-guide/</link><pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate><guid>https://ningfeiyu.github.io/posts/opc-2-advanced-web3-guide/</guid><description>&lt;p>&lt;img alt="OPC 2.0 Hero" loading="lazy" src="https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&amp;h=600&amp;fit=crop">&lt;/p>
+&lt;p>&lt;strong>这是 OPC 系列的进阶版&lt;/strong>——面向已具备 1000+ 粉丝的自媒体玩家、读过 CZ《碟中谍》或 Bankless 哲学、对加密经济有基本认知的读者。&lt;/p>
+&lt;p>普通人做 OPC 卡在三个 10 倍瓶颈：&lt;strong>流量放大难 × 支付全球化难 × 组织协作难&lt;/strong>。Web3 + AI 给出的答案不是替代，而是把每个瓶颈再放大 10 倍。&lt;/p>
+&lt;p>今天这篇是&lt;strong>实操，不是哲学&lt;/strong>。读完你能直接部署一份&lt;strong>AI + Web3 + 自媒体飞轮&lt;/strong>的运行架构。&lt;/p>
+&lt;hr>
+&lt;h2 id="一为什么是-自媒体--web3--ai">一、为什么是 &amp;ldquo;自媒体 × Web3 × AI&amp;rdquo;？&lt;/h2>
+&lt;p>&lt;img alt="Triangle" loading="lazy" src="https://images.unsplash.com/photo-1620336655055-bd87ed29c4d9?w=1200&amp;h=600&amp;fit=crop">&lt;/p>
+&lt;h3 id="11-三者的杠杆乘子">1.1 三者的杠杆乘子&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">自媒体 (Distribution)&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">杠杆&lt;/span>: &lt;span style="color:#ae81ff">1&lt;/span> &lt;span style="color:#ae81ff">个内容触达 100k+ 用户，边际成本 ≈ 0&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">关键资产&lt;/span>: &lt;span style="color:#ae81ff">注意力、信任、个人 IP&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">Web3 (Monetization + Ownership)&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">杠杆&lt;/span>: &lt;span style="color:#ae81ff">全球 7×24 支付、无需 KYC 试错的轻触转化&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ae81ff">链上所有权让粉丝成为共建者&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">关键资产&lt;/span>: &lt;span style="color:#ae81ff">钱包地址、链上凭证、智能合约&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">AI (Productivity)&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">杠杆&lt;/span>: &lt;span style="color:#ae81ff">1&lt;/span> &lt;span style="color:#ae81ff">人 = 10 人生产力，7×24 自动运转&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">关键资产&lt;/span>: &lt;span style="color:#ae81ff">Agent、技能、自动化流水线&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;strong>飞轮逻辑&lt;/strong>：&lt;/p></description></item></channel></rss>
